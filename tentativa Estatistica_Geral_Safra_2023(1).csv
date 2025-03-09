@@ -1,6 +1,6 @@
-Cidades,Fardos,Media,Porcentagem
-Rondonopolis,724476,"4,3","100,00%"
-Sorriso,1582924,"4,3","100,00%"
-Sapezal,2754623,"4,2","100,00%"
-Campo Novo,1222028,"4,2","100,00%"
-Lucas,1507191,"4,3","100,00%"
+Cidades,mic_media,comp_media,resist_media,unif_media,fibras_curtas_media,reflec_media,amarel_media
+Rondonopolis,"4,3","29,2","81,8","81,8","8,9",77,"8,4"
+Sorriso,"4,3","29,5","81,9","81,9","8,8","76,9","8,9"
+Sapezal,"4,2","29,7","81,8","81,8","8,6","77,7","8,1"
+Campo Novo,"4,2","29,2","81,6","81,6","8,9","77,9","8,5"
+Lucas,"4,3","29,2","81,7","81,7","9,2","77,1",9
